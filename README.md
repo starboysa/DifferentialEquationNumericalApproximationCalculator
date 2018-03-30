@@ -1,6 +1,4 @@
 # Differential Equation Numerical Approximation Calculator
-
-# About
 A somewhat featured calculator language that is used to run Numerical Approximation on a first order ODE using:
 * Euler Method
 * Improved Euler Method
